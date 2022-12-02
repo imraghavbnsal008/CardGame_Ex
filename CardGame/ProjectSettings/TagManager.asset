@@ -8,6 +8,7 @@ TagManager:
   - Top
   - Bottom
   - Card
+  - hit
   layers:
   - Default
   - TransparentFX
@@ -47,4 +48,9 @@ TagManager:
     locked: 0
   - name: User Interface
     uniqueID: 3327350889
+  - name: cards
+    uniqueID: 3747421837
+    locked: 0
+  - name: head
+    uniqueID: 2338817737
     locked: 0
